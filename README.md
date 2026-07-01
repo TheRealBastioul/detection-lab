@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     subgraph Net [<b>Network</b>10.2.2.0/24<br>]
         subgraph A[Virtual Machines]
